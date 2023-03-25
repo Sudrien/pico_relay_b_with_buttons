@@ -1,3 +1,6 @@
+# starting from Pico-Relay-B_test.py
+# provided at https://www.waveshare.com/wiki/Pico-Relay-B#Demo_codes
+
 import time
 import machine
 import rp2
